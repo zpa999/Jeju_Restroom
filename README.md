@@ -21,3 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 https://developers.kakao.com/console/app/1186794/config#business-info
 
+데이터 - data.go.kr - api 아님 - json 변환 후 사용함
+
+https://www.data.go.kr/data/15109235/openapi.do#/tab_layer_detail_function
+
