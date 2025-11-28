@@ -17,6 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## 참고자료
 
-카카오 개발 - 맵 사용, 비즈니스 정
+카카오 개발 - 맵 사용, 비즈니스 정보
+
 https://developers.kakao.com/console/app/1186794/config#business-info
 
